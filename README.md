@@ -2,7 +2,7 @@
 This is my Repository in Github.
 
 # Teacher 
-Bharat
+Bharat.
 
 # student
-All of you my son
+All of you my son.
